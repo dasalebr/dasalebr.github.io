@@ -4,8 +4,7 @@ title: About me
 subtitle: Personal blog
 ---
 
-My name is Daniel Lemos. I have the following qualities:
+My name is Daniel Lemos. I work for Checkpoint Software
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
